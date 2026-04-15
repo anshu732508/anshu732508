@@ -36,13 +36,13 @@ I enjoy working with data, building projects, and learning new Python technologi
 
 ## 📊 GitHub Stats
 
-![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshu732508&show_icons=true&theme=tokyonight)
+[Anshu's GitHub stats]
 
 ---
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu732508&layout=compact&theme=tokyonight)
+[English, Hindi ]
 
 ---
 
