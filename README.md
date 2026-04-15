@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 I'm Anshu Kumar Singh, a BCA student passionate about Data Science and Machine Learning.  
-I enjoy working with data, building projects, and learning new technologies in Python.
+I enjoy working with data, building projects, and learning new Python technologies.
 
 ---
 
